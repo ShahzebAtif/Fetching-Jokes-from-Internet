@@ -5,7 +5,7 @@ Fetching Jokes from Internet
 ## Installation
 run `python install -r requirements.txt
 
-## Guidelines
+### Guidelines
 Enter the following command in Python Terminal to load Libraries:
 
 
