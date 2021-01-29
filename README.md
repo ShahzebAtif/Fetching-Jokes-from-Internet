@@ -1,4 +1,4 @@
-# Jokes-from-Internet
+# Jokes from internet
 Fetching Jokes from Internet
 
 
